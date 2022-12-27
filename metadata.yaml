@@ -1,0 +1,36 @@
+_repo: Siren-satellite_69358
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barnes, Arthur K.
+    alias: Barnes, Arthur Kelvin
+    birthdate: 1909
+    deathdate: 1969
+    gutenberg_agent_id: '55224'
+    url: http://www.gutenberg.org/2009/agents/55224
+    wikipedia: https://en.wikipedia.org/wiki/Arthur_K._Barnes
+description: ''
+gutenberg_issued: '2022-11-15'
+identifiers:
+  gutenberg: '69358'
+language: en
+pgterms:marc905: 20220510121813barnes
+pgterms:marc906: '1945'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: 'United States: Standard Magazines, Inc.,1945.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Gerry Carlyle
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Space ships -- Fiction'
+- !lcsh 'Mutiny -- Fiction'
+- !lcsh 'Triton (Satellite) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Siren satellite
+url: http://www.gutenberg.org/ebooks/69358
